@@ -15,6 +15,8 @@
 >1. Which States had the highest growth in gun registration and purchases?
 >1. What is the overall trend of gun purchases?
 
+[Click to view Data Wrangling and Exploration of the Dataset](https://github.com/Egunza-dev/Investigate-FBI-Gun-Dataset/blob/main/investigate-a-dataset.ipynb)
+
 ## Conclusions
 
 > **Results**: The data suggests that
